@@ -1,6 +1,6 @@
 # Hello 👋 
 
-I am Szymon - 19 years old programmer and designer.
+I am Szymon (he/him) - 19 years old programmer and designer.
 
 I have been designing and developing websites for more than two years. I am CTO @ HOMIES.
 
